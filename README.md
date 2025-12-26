@@ -1,9 +1,8 @@
 spam-email-classifier/
-│
-├── spam_model.pkl        # Pre-trained ML model
-├── vectorizer.pkl        # Pre-trained text vectorizer
-├── app.py                # Streamlit application code
-└── README.md             # Project documentation
+spam_model.pkl        # Pre-trained ML model
+vectorizer.pkl        # Pre-trained text vectorizer
+app.py                # Streamlit application code
+README.md             # Project documentation
  Features
 - Interactive web interface built with Streamlit
 - Classifies email text into Spam or Not Spam
